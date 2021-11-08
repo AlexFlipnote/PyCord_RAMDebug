@@ -1,0 +1,5 @@
+builtins.tuple                     98125       +10
+discord.user.User                1389394        +6
+discord.activity.CustomActivity    61575        +6
+discord.utils.SnowflakeList      1677262        +1
+discord.member.Member            1654576        +1

@@ -1,0 +1,10 @@
+_contextvars.Context                   2083     +2066
+asyncio.events.TimerHandle             2051     +2047
+builtins.list                         51626      +316
+builtins.tuple                        83011      +185
+discord.activity.Activity             27711       +96
+discord.activity.CustomActivity       53381       +74
+builtins.dict                          7456       +59
+discord.partial_emoji.PartialEmoji    26141       +36
+discord.message.Message                 810       +23
+discord.flags.MessageFlags              810       +23

@@ -1,0 +1,10 @@
+builtins.tuple                      96764       +80
+discord.activity.CustomActivity     60919       +44
+builtins.list                       63911       +26
+discord.activity.Activity           35554       +14
+discord.user.User                 1389306        +8
+discord.message.MessageReference      214        +3
+discord.threads.Thread                195        +1
+discord.threads.ThreadMember          161        +1
+discord.message.Message              1163        +1
+discord.flags.MessageFlags           1163        +1

@@ -1,0 +1,10 @@
+builtins.tuple                     96606       +32
+discord.activity.CustomActivity    60807       +17
+discord.activity.Activity          35449        +5
+discord.activity.Spotify            5879        +5
+builtins.weakref                    2139        +4
+builtins.method                      142        +4
+asyncio.events.Handle                 29        +4
+_asyncio.Task                         29        +4
+builtins.coroutine                    37        +4
+builtins.frame                        35        +4

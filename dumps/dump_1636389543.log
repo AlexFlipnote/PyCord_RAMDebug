@@ -1,0 +1,5 @@
+builtins.tuple                        98266       +35
+discord.activity.Activity             36407       +23
+discord.partial_emoji.PartialEmoji    30159       +12
+builtins.list                         65072        +9
+discord.threads.ThreadMember            170        +1

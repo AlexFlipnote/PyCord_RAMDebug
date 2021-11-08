@@ -1,0 +1,9 @@
+builtins.list                       64581       +11
+builtins.dict                        9523       +11
+discord.message.MessageReference      276        +7
+discord.message.Message              1188        +3
+discord.flags.MessageFlags           1188        +3
+discord.utils.SnowflakeList       1677248        +2
+discord.user.User                 1389341        +2
+discord.member.Member             1654562        +2
+discord.member.VoiceState             130        +1

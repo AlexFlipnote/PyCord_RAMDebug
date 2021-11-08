@@ -1,0 +1,10 @@
+discord.activity.CustomActivity       60847       +40
+builtins.tuple                        96634       +28
+discord.partial_emoji.PartialEmoji    29712       +28
+builtins.list                         63685       +21
+discord.activity.Activity             35459       +10
+builtins.dict                          9412        +9
+discord.colour.Colour                   231        +6
+discord.components.Button                63        +6
+discord.user.User                   1389298        +4
+discord.activity.Game                  8061        +4

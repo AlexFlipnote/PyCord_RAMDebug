@@ -1,0 +1,7 @@
+builtins.tuple                        97650       +45
+discord.activity.CustomActivity       61374       +18
+discord.partial_emoji.PartialEmoji    30049        +7
+discord.activity.Spotify               5941        +4
+builtins.dict                          9569        +3
+discord.utils.SnowflakeList         1677252        +1
+discord.member.Member               1654566        +1

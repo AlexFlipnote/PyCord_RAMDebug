@@ -1,0 +1,5 @@
+builtins.tuple                        98115       +10
+discord.user.User                   1389388        +5
+discord.activity.Spotify               6090        +5
+discord.activity.Activity             36347        +4
+discord.partial_emoji.PartialEmoji    30108        +4

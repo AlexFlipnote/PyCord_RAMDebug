@@ -1,0 +1,6 @@
+builtins.list                       64663       +82
+builtins.dict                        9534       +11
+discord.activity.Activity           35965       +10
+discord.message.MessageReference      286       +10
+discord.message.Message              1194        +6
+discord.flags.MessageFlags           1194        +6

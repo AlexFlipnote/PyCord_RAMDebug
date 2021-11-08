@@ -1,0 +1,9 @@
+builtins.weakref                 2141        +2
+builtins.method                   144        +2
+asyncio.events.Handle              31        +2
+_asyncio.Task                      31        +2
+builtins.coroutine                 39        +2
+builtins.frame                     37        +2
+builtins.TaskStepMethWrapper       26        +2
+discord.utils.SnowflakeList   1677241        +1
+discord.member.Member         1654555        +1

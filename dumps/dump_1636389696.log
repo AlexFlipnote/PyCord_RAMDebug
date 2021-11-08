@@ -1,0 +1,4 @@
+builtins.tuple          98512       +49
+builtins.list           65387       +40
+builtins.dict            9709       +14
+discord.embeds.Embed      300        +2

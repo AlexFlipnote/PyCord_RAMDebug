@@ -1,0 +1,8 @@
+builtins.list                         63885       +54
+discord.partial_emoji.PartialEmoji    29731       +19
+discord.message.MessageReference        211       +11
+discord.message.Message                1162        +8
+discord.flags.MessageFlags             1162        +8
+discord.activity.Activity             35540        +3
+discord.components.Button                68        +3
+discord.components.ActionRow             23        +1

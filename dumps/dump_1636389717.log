@@ -1,0 +1,5 @@
+builtins.tuple                     98624       +57
+discord.activity.CustomActivity    61733       +18
+discord.activity.Spotify            6201       +15
+builtins.dict                       9715        +5
+discord.activity.Streaming           492        +3
