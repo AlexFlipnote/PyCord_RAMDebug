@@ -1,4 +1,0 @@
-builtins.tuple                     98774       +88
-builtins.list                      65576       +76
-discord.activity.Activity          36709       +53
-discord.activity.CustomActivity    61829       +21

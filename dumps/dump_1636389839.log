@@ -1,7 +1,0 @@
-discord.partial_emoji.PartialEmoji    30217       +18
-builtins.list                         65584        +7
-builtins.dict                          9730        +7
-discord.user.User                   1389418        +3
-discord.activity.Game                  8198        +1
-discord.threads.ThreadMember            172        +1
-discord.member.VoiceState               143        +1

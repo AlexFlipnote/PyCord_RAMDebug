@@ -1,7 +1,0 @@
-builtins.list                       64016       +35
-discord.activity.Activity           35569       +15
-builtins.dict                        9424        +4
-discord.message.Message              1175        +3
-discord.flags.MessageFlags           1175        +3
-discord.message.MessageReference      233        +3
-discord.message.Attachment             63        +2

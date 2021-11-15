@@ -1,7 +1,0 @@
-builtins.tuple                        96855       +28
-discord.activity.CustomActivity       60959       +19
-discord.activity.Game                  8111        +7
-discord.partial_emoji.PartialEmoji    29766        +7
-discord.utils.SnowflakeList         1677233        +3
-discord.member.Member               1654547        +3
-discord.message.MessageReference        251        +1

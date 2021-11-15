@@ -1,0 +1,4 @@
+builtins.tuple                     96769       +11
+discord.activity.CustomActivity    60407        +3
+discord.activity.Streaming           620        +3
+discord.user.User                1487734        +2

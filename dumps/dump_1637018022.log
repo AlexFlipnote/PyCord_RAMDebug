@@ -1,0 +1,4 @@
+builtins.list                65191       +15
+discord.activity.Activity    35683       +14
+builtins.tuple               96819       +13
+discord.user.User          1487740        +4

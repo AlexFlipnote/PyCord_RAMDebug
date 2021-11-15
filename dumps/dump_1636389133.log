@@ -1,7 +1,0 @@
-builtins.dict                    9500        +8
-builtins.list                   64396        +5
-discord.components.Button          80        +5
-discord.user.User             1389328        +2
-discord.utils.SnowflakeList   1677243        +1
-discord.member.Member         1654557        +1
-discord.components.ActionRow       26        +1

@@ -1,0 +1,4 @@
+builtins.tuple                        97706       +16
+discord.activity.CustomActivity       61006       +10
+discord.partial_emoji.PartialEmoji    29838        +5
+builtins.dict                         10624        +4

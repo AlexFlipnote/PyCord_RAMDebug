@@ -1,0 +1,10 @@
+discord.utils.SnowflakeList         1782482  +1782482
+discord.member.Member               1759305  +1759305
+discord.user.User                   1487687  +1487687
+builtins.tuple                        89050    +89050
+discord.abc._Overwrites               71959    +71959
+discord.activity.CustomActivity       56506    +56506
+builtins.list                         56329    +56329
+discord.activity.Activity             30880    +30880
+discord.partial_emoji.PartialEmoji    28060    +28060
+discord.emoji.Emoji                   23177    +23177

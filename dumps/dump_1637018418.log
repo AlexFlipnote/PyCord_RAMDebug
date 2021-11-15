@@ -1,0 +1,7 @@
+discord.activity.CustomActivity       60996      +304
+discord.activity.Activity             36335      +252
+builtins.list                         65680      +165
+discord.partial_emoji.PartialEmoji    29833      +130
+builtins.tuple                        97690       +81
+builtins.dict                         10620       +48
+discord.threads.Thread                  215        +1

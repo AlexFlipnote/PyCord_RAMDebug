@@ -1,0 +1,10 @@
+builtins.list                          65229       +38
+builtins.tuple                         96850       +23
+discord.activity.Activity              35703       +18
+builtins.builtin_function_or_method     1310        +6
+builtins.dict                          10435        +3
+discord.message.MessageReference         278        +2
+builtins.cell                           1486        +1
+concurrent.futures._base.Future            2        +1
+threading.Condition                        7        +1
+_thread.RLock                             11        +1

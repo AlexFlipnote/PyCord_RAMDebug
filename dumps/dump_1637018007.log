@@ -1,0 +1,5 @@
+builtins.list                 65141       +18
+builtins.dict                 10420        +4
+discord.activity.Activity     35645        +3
+discord.user.User           1487735        +1
+discord.message.Attachment       47        +1

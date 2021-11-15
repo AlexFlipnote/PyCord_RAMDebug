@@ -1,0 +1,4 @@
+aiohttp.http_websocket.WSMessage      511       +21
+builtins.tuple                      97609       +18
+discord.activity.CustomActivity     60612       +12
+builtins.dict                       10527        +2

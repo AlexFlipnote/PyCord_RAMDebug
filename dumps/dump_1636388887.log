@@ -1,4 +1,0 @@
-builtins.list                       64146       +22
-discord.activity.Activity           35642       +14
-discord.activity.Game                8118        +7
-discord.message.MessageReference      254        +3

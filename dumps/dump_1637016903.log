@@ -1,0 +1,10 @@
+_contextvars.Context                 518      +478
+asyncio.events.TimerHandle           505      +476
+builtins.list                      56392       +63
+builtins.tuple                     89090       +40
+discord.activity.Activity          30910       +30
+builtins.dict                       8317       +18
+discord.activity.Spotify            5174        +7
+discord.activity.Game               8647        +5
+discord.activity.CustomActivity    56510        +4
+asyncio.events.Handle                  4        +3

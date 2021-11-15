@@ -1,0 +1,6 @@
+builtins.tuple                        97524      +479
+aiohttp.http_websocket.WSMessage        467      +465
+discord.activity.CustomActivity       60568       +13
+builtins.list                         65493       +10
+discord.partial_emoji.PartialEmoji    29672        +9
+builtins.dict                         10511        +6

@@ -1,0 +1,10 @@
+discord.activity.CustomActivity       60670       +50
+builtins.dict                         10566       +35
+discord.activity.Activity             36023       +35
+discord.partial_emoji.PartialEmoji    29694       +16
+builtins.weakref                       2181        +2
+_asyncio.Task                            21        +2
+builtins.coroutine                       29        +2
+builtins.frame                           27        +2
+asyncio.events.Handle                    18        +2
+builtins.TaskStepMethWrapper             16        +2

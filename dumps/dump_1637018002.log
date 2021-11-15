@@ -1,0 +1,4 @@
+builtins.tuple                     96792       +20
+discord.activity.CustomActivity    60427       +20
+builtins.dict                      10416        +2
+discord.message.Attachment            46        +1

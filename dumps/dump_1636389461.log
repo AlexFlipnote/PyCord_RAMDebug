@@ -1,6 +1,0 @@
-builtins.list                      64983       +37
-builtins.tuple                     97992        +7
-builtins.dict                       9632        +3
-discord.user.User                1389377        +3
-discord.activity.CustomActivity    61491        +1
-discord.member.VoiceState            140        +1
