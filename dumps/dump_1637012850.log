@@ -1,0 +1,6 @@
+discord.activity.Activity             40599       +36
+discord.partial_emoji.PartialEmoji    33588       +11
+builtins.dict                          9814        +6
+discord.activity.Game                 10088        +5
+discord.member.VoiceState               163        +1
+discord.reaction.Reaction                33        +1

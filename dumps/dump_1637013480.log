@@ -1,0 +1,6 @@
+discord.activity.Game          10204      +106
+discord.message.Attachment        74       +13
+weakref.KeyedRef             1487589       +12
+discord.utils.SnowflakeList  1782346       +11
+discord.member.Member        1759169       +11
+discord.channel.DMChannel         25        +2

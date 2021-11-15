@@ -1,4 +1,0 @@
-builtins.tuple                  96888       +33
-discord.activity.Activity       35656        +5
-discord.member.VoiceState         123        +3
-discord.threads.ThreadMember      162        +1

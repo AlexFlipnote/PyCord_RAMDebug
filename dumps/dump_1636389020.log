@@ -1,7 +1,0 @@
-builtins.tuple                        97113       +28
-discord.activity.CustomActivity       61089       +28
-discord.partial_emoji.PartialEmoji    29878       +21
-discord.embeds.Embed                    272       +16
-builtins.dict                          9461        +7
-discord.colour.Colour                   232        +1
-discord.channel.DMChannel                 4        +1

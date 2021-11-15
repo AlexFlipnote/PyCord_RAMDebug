@@ -1,0 +1,10 @@
+builtins.tuple                       107944      +631
+discord.activity.Activity             40414      +336
+discord.activity.CustomActivity       68043      +206
+discord.partial_emoji.PartialEmoji    33453       +48
+builtins.dict                          9793       +25
+discord.activity.Game                  9999        +8
+discord.user.User                   1487658        +7
+collections.deque                        19        +2
+urllib.parse.SplitResult                 11        +2
+multidict._multidict.CIMultiDict          5        +2

@@ -1,0 +1,10 @@
+builtins.tuple                       103734      +148
+discord.activity.CustomActivity       65686       +71
+discord.activity.Activity             38167       +59
+discord.activity.Spotify               7814       +39
+discord.partial_emoji.PartialEmoji    32299       +26
+discord.activity.Game                  9465       +20
+builtins.dict                          9312       +16
+discord.embeds.Embed                    268        +5
+discord.colour.Colour                   232        +5
+discord.activity.Streaming              664        +4

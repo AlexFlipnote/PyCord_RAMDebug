@@ -1,0 +1,9 @@
+discord.activity.CustomActivity       67837       +41
+builtins.tuple                       107313       +24
+discord.partial_emoji.PartialEmoji    33405       +13
+discord.activity.Game                  9935        +8
+discord.user.User                   1487639        +3
+discord.utils.SnowflakeList         1782330        +2
+weakref.KeyedRef                    1487567        +2
+discord.member.Member               1759153        +2
+discord.reaction.Reaction                12        +1

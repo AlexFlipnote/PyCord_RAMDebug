@@ -1,0 +1,10 @@
+builtins.tuple                           99385       +96
+traceback.FrameSummary                      10       +10
+functools.partial                           17        +7
+aiohttp.http_websocket.WSMessage           411        +5
+builtins.method                            121        +3
+builtins.traceback                           2        +2
+builtins.function                         9470        +2
+concurrent.futures._base.TimeoutError        1        +1
+builtins.generator                           1        +1
+traceback.StackSummary                       1        +1

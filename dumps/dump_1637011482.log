@@ -1,0 +1,10 @@
+builtins.tuple                       107065     +2842
+discord.activity.CustomActivity       67785     +1784
+discord.activity.Activity             39762     +1350
+discord.partial_emoji.PartialEmoji    33389      +894
+builtins.list                         27904      +503
+builtins.dict                          9713      +342
+discord.activity.Game                  9818      +340
+discord.message.Message                1187       +28
+discord.flags.MessageFlags             1187       +28
+discord.message.MessageReference        246       +19

@@ -1,0 +1,9 @@
+discord.activity.Activity             40078      +316
+builtins.tuple                       107289      +224
+discord.activity.Game                  9927      +109
+builtins.dict                          9740       +27
+discord.activity.Streaming              695       +21
+discord.activity.CustomActivity       67796       +11
+discord.partial_emoji.PartialEmoji    33392        +3
+discord.channel.DMChannel                12        +3
+weakref.KeyedRef                    1487565        +2

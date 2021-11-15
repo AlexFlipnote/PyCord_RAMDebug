@@ -1,0 +1,10 @@
+builtins.list                      22078       +76
+discord.activity.Activity          35708       +75
+builtins.dict                       8255       +45
+discord.activity.CustomActivity    63279       +14
+discord.activity.Spotify            6578       +14
+discord.activity.Game               9067        +6
+discord.message.Message              465        +6
+discord.flags.MessageFlags           465        +6
+builtins.weakref                    2091        +5
+builtins.method                      118        +5

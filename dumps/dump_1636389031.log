@@ -1,4 +1,0 @@
-builtins.tuple                        97153       +40
-discord.activity.CustomActivity       61119       +30
-discord.partial_emoji.PartialEmoji    29896       +18
-discord.activity.Game                  8151       +13

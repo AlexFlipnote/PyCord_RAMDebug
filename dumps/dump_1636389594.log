@@ -1,7 +1,0 @@
-builtins.list                  65191       +60
-discord.activity.Activity      36491       +23
-discord.activity.Spotify        6135       +18
-builtins.dict                   9662       +11
-builtins.tuple                 98363        +1
-discord.utils.SnowflakeList  1677266        +1
-discord.member.Member        1654580        +1

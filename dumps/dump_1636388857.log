@@ -1,5 +1,0 @@
-builtins.tuple               96822       +27
-discord.activity.Activity    35628       +23
-builtins.dict                 9449       +11
-discord.activity.Game         8094       +10
-builtins.list                64108        +8

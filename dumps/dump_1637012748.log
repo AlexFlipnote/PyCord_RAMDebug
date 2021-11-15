@@ -1,0 +1,6 @@
+builtins.tuple                       108188       +56
+discord.partial_emoji.PartialEmoji    33577       +43
+discord.activity.Activity             40563       +31
+discord.reaction.Reaction                32       +13
+discord.activity.Game                 10083        +3
+weakref.KeyedRef                    1487577        +1

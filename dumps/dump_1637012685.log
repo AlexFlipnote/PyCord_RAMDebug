@@ -1,0 +1,10 @@
+builtins.tuple                       108132      +188
+discord.activity.Activity             40532      +118
+discord.partial_emoji.PartialEmoji    33534       +81
+discord.activity.Game                 10073       +74
+discord.abc._Overwrites               71986       +13
+discord.activity.Streaming              708       +11
+builtins.dict                          9801        +8
+weakref.KeyedRef                    1487575        +8
+discord.reaction.Reaction                17        +5
+discord.utils.SnowflakeList         1782334        +4

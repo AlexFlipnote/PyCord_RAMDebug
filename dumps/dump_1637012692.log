@@ -1,0 +1,7 @@
+builtins.dict                   9808        +7
+discord.activity.Game          10080        +7
+discord.activity.Streaming       710        +2
+discord.reaction.Reaction         19        +2
+discord.utils.SnowflakeList  1782335        +1
+weakref.KeyedRef             1487576        +1
+discord.member.Member        1759158        +1

@@ -57,6 +57,7 @@ class MemoryChecker(AutoShardedBot):
 
 
 client = MemoryChecker(
+    command_prefix="SOMEDUMBPREFIXNOBODYGUESSESKTHXBYE",
     intents=Intents(
         guilds=True, members=True, messages=True, bans=True,
         emojis=True, voice_states=True, presences=True, reactions=True
